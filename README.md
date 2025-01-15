@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... NEW THINGS
 - 🌱 I’m currently learning ... JAVASCRIPT
 - 💞️ I’m looking to collaborate on ... JAVASCRIPT
-- 📫 How to reach me ... Facebook=[https://www.facebook.com/alimasrafy.24] Linked-In=[https://www.linkedin.com/in/ali-masrafy/]
+- 📫 How to reach me ... Facebook, Linked-In, Instagram, Twitter,
 
 I am currently focused on learning front-end development, specializing in creating responsive and visually engaging user interfaces. My learning journey includes mastering HTML, CSS, and JavaScript to build interactive and accessible websites.
 
